@@ -28,7 +28,7 @@ ul {
 header {
   width: 100vw;
   height: 100vh;
-  background: url(../img/header-bg.png);
+  background: url(header-bg.png);
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
@@ -229,7 +229,6 @@ a.ctn {
 /* footer */
 
 .footer {
-  border: 1px solid red;
   width: 100%;
   min-height: 100px;
   padding: 20px 80px;
